@@ -87,7 +87,8 @@ body {
 /* This class will be added via javascript when the button is clicked */
 
 .orange-background {
-    background-color: var(--orange-color);
+    background-color: var(--orange-color) !important;
+    color: var(--white-color);
 }
 
 .rating-circle:hover {
