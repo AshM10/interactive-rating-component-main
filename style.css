@@ -83,6 +83,10 @@ body {
     margin-right: 25px;
 }
 
+.hidden {
+    display: none;
+}
+
 
 /* This class will be added via javascript when the button is clicked */
 
