@@ -119,6 +119,38 @@ body {
     color: var(--orange-color);
 }
 
+.submitted-view {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.thankyou-illustration {
+    width: 50%;
+    margin-left: 65px;
+    margin-top: 17px;
+    margin-bottom: 25px;
+}
+
+.out-of-five {
+    width: 20%;
+    border-radius: 20px;
+    padding: 6px 0px;
+    color: var(--orange-color);
+    text-align: center;
+    background-color: var(--mediumgrey-color);
+}
+
+.submitted-view h2 {
+    color: var(--white-color);
+    text-align: center;
+}
+
+.submitted-view p {
+    width: 90%;
+}
+
 footer {
     margin-bottom: 30px;
 }
