@@ -29,8 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-- Active State
-  ![](./screenshot.jpg)
+![smartmockups_l7b0gz9p](https://user-images.githubusercontent.com/89284873/186996119-20d3a3f4-49f1-4581-9c39-c4ffd1ea19c6.jpg)
+![smartmockups_l7b0jjpf](https://user-images.githubusercontent.com/89284873/186996125-934b1cad-638c-4fcb-8845-299bcc37cb42.jpg)
+![smartmockups_l7b0ii4g](https://user-images.githubusercontent.com/89284873/186996131-628389af-6770-4ebc-acac-c3841b4d6668.jpg)
+
+- Thank you State
+
+![smartmockups_l7b0yk5o](https://user-images.githubusercontent.com/89284873/186997026-81a560c5-5623-470d-9779-8fbb5d0dfba6.png)
 
 ### Links
 
@@ -80,8 +85,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Smartmockups](https://smartmockups.com) - Create stunning 
+product mockups easily and online.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
