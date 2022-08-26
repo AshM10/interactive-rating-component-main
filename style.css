@@ -153,8 +153,10 @@ body {
   margin-top: 35px;
 }
 
-.submitted-view article {
+.submitted-view h3 {
   width: 90%;
+  margin-top: 2px;
+  font-size: 15px;
   color: var(--lightgrey-color);
   line-height: 1.5;
 }
