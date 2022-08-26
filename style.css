@@ -84,7 +84,7 @@ body {
 }
 
 .hidden {
-  display: none;
+    display: none !important;
 }
 
 /* This class will be added via javascript when the button is clicked */
@@ -100,17 +100,17 @@ body {
 }
 
 .submit {
-  margin-top: 30px;
-  padding: 10px;
-  background-color: var(--orange-color);
-  width: 94%;
-  height: 47px;
-  color: var(--white-color);
-  border: none;
-  border-radius: 25px;
-  text-transform: uppercase;
-  font-size: 15px;
-  letter-spacing: 2px;
+    margin: 30px 0px 0px 0px !important;
+    padding: 10px;
+    background-color: var(--orange-color);
+    width: 350px;
+    height: 47px;
+    color: var(--white-color);
+    border: none;
+    border-radius: 25px;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 2px;
 }
 
 .submit:hover {
