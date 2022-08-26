@@ -144,7 +144,7 @@ body {
   font-size: 14px;
 }
 
-.submitted-view sh2 {
+.submitted-view h2 {
   color: var(--white-color);
   text-align: center;
   font-weight: 400;
