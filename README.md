@@ -66,5 +66,5 @@ Continue doing Frontend Mentor projects using Reactjs.
 
 ## Acknowledgments
 
-Thank you [William](https://github.com/wfeliciano20) for helping me a lot with Github!
+Thank you [William](https://github.com/wfeliciano20) for helping me a lot with CLI onGithub!
 [William on Twitter](https://twitter.com/knowledgeprog)
